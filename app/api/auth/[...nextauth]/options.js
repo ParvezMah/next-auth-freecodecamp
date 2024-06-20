@@ -8,7 +8,7 @@ export const options = {
                 console.log("Profile Github", profile);
 
                 let userRole = "Github User";
-                if(profile?.email == "jake@claritycoder.com"){
+                if(profile?.email == "parvezmahmudaa100@gmail.com"){
                     userRole = "admin";
                 }
 

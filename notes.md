@@ -43,3 +43,18 @@
             }
 
 ```
+
+> 46:19 / 1:26:54 - Protecting Pages - Middleware
+
+
+> 54:26 / 1:26:54 - Creating Custom Provider (Creating a Database of Users)
+
+
+
+
+
+
+
+
+
+
